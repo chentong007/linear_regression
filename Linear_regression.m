@@ -1,4 +1,4 @@
-% Using grad_descent method to predict labels
+% Using linear regression method to predict labels
 % Compare predict results by one versus others method
 
 % Prepare ramdonalized input data
